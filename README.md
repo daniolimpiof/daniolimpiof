@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dani Olimpio
 - 💗 I’m interested in technology, books, good coffees and design.
 - 🌱 I’m currently learning web development full stack na Trybe.  
-- 📸 You can follow me on instagram: @daniolimpiof
+- 📸 You can follow me on instagram: @daniolimpiof and @dannirizzi
 - 💌 How to reach me on danielly.fundcheller@gmail.com.
 
 <!---
