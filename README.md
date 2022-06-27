@@ -1,10 +1,6 @@
 <h1 align="center">Olá, 👋 eu sou a Dani Olimpio</h1>
 <h3 align="center">Desenvolvedora Front-end | Em formação Full Stack - Trybe | Apaixonada por fotografia, cafés, literatura, criatividade, design e conhecimento.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniolimpiof&label=Profile%20views&color=0e75b6&style=flat" alt="daniolimpiof" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniolimpiof" alt="daniolimpiof" /></a> </p>
-
 - 🌱 Atualmente estou aprendendo **Docker, MySQL, Node.js, Typescript e MongoDB.**
 
 - 💬 Me pergunte sobre **HTML | CSS | JavaScript | React.js | Redux.js | Context API | SCRUM | Github | Saas | RTL | JEST**
