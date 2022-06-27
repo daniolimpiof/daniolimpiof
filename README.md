@@ -1,5 +1,5 @@
 <h1 align="center">Olá, 👋 eu sou a Dani Olimpio</h1>
-<h3 align="center">Desenvolvedora Front-end | Em formação Full Stack - Trybe | Apaixonada por fotografia, cafés, literatura, criatividade, design e conhecimento.</h3>
+<h3 align="center">Desenvolvedora Front-end | Em formação Full Stack - Trybe .</h3>
 
 - 🌱 Atualmente estou aprendendo **Docker, MySQL, Node.js, Typescript e MongoDB.**
 
