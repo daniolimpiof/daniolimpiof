@@ -11,7 +11,9 @@ I'm Brazilian, I'm 25 years old and I'm fascinated by education, technology, cre
 <br/>
 <br/>
 <div>
+          
 #
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth=30px width=30px /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" heigth=30px width=30px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" heigth=30px width=30px />
