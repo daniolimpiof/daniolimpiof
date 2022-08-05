@@ -1,5 +1,6 @@
 # :purple_heart:  Danielly Olimpio
 
+<img src="./octoCat/octocat_dani.png" width="250px" />
 :brazil: Olá, eu sou a Dani, desenvolvedora web front-end e estudante em formação full stack pela Trybe.
 - Sou brasileira, tenho 25 anos e sou fascinada por educação, tecnologia, criatividade, fotografia, animais, literatura e bons cafés. 
 
@@ -26,33 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" heigth=45px width=45px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth=45px width=45px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" heigth=45px width=45px />
-  
-          
-  
-          
-  
-          
-  
-          
-  
-          
-          
-          
-  
-          
-  
-          
-  
-          
-          
-          
-  
-          
-          
-          
-          
-
-          
 </div>
           
           
