@@ -1,16 +1,5 @@
-<h1 align="center">Olá, 👋 eu sou a Dani Olimpio</h1>
-<h3 align="center">Desenvolvedora Front-end | Em formação Full Stack - Trybe .</h3>
+# :purple_heart:  Danielly Olimpio
 
-- 🌱 Atualmente estou aprendendo **Docker, MySQL, Node.js, Typescript e MongoDB.**
+:sparkles: Olá, eu sou a Dani, desenvolvedora web front-end e estudante em formação full stack pela Trybe.
+- Sou brasileira, tenho 25 anos e sou fascinada por educação, tecnologia, criatividade, fotografia, animais, literatura e bons cafés. 
 
-- 💬 Me pergunte sobre **HTML | CSS | JavaScript | React.js | Redux.js | Context API | SCRUM | Github | Saas | RTL | JEST**
-
-- 📫 Fale comigo por **danielly.fundcheller@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniolimpio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniolimpio/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/daniolimpiof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daniolimpiof/" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniolimpiof&show_icons=true&locale=en&layout=compact" alt="daniolimpiof" /></p>
